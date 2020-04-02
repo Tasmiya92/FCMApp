@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672412184590",
+    "firebase_url": "https://fcmapp-e312b.firebaseio.com",
+    "project_id": "fcmapp-e312b",
+    "storage_bucket": "fcmapp-e312b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672412184590:android:5720379ecba2fcf5080c5f",
+        "android_client_info": {
+          "package_name": "com.tasmiya.fcmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672412184590-8h3lr0h532p0h2sjgdp3hl4es45rbfmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tasmiya.fcmapp",
+            "certificate_hash": "d91d3dea2598f68db93b0e8b77889e481958300f"
+          }
+        },
+        {
+          "client_id": "672412184590-510td9121rjs5n61eb1lnurf06jsl5tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_U4VJ4bw268xWVuswVqGu8JrtB40n-x4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672412184590-510td9121rjs5n61eb1lnurf06jsl5tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
